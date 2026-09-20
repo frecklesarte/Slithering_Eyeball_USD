@@ -1,0 +1,64 @@
+#
+# Git ignore config for excluding files that do not need tracking
+# 
+
+# Date(MM/DD/YYYY): 09 - 20 - 2026
+# Time: 4:41AM
+# Author: David Valencia
+
+# Blender autosaves & backups
+*.blend1
+*.blend~*
+# Blender Backup Assets-cats.txt files
+*blender_assets.cats.txt~
+# Blender Cache and simulation files
+cache/
+caches/
+*.bphys
+*.vdb
+# Temporary & generated files
+tmp/
+temp/
+*.tmp
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+# Vim swap, backup, and undo files
+*.swp
+*.swo
+*.swn
+*.un~
+*~
+.netrwhist
+
+# Python Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+# Python cache and compiled files
+__pychache/
+*.py[cod]
+*$py.class
+
+# Python tooling
+.py_test_cache/
+.mypy_cache/
+.ruff_cache
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# End of config

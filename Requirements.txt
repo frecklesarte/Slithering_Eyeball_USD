@@ -1,0 +1,9 @@
+# If using Blender as USD Stage + Renderer..
+# Then Require Users to have at least 4.5 LTS Installed
+
+## Exported Blender project-data such as: .usd
+## or 
+## variants .usdc .usda, .mtlx,
+## and
+## .gltf, .obj, and .fbx.. 
+## can used with other DCC's and Render Engines given they offer such support in the first-place.

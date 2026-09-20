@@ -1,0 +1,33 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+968fc966-87c4-4a39-80ed-7b6c8a55ed98:Character:Character
+2fe73535-bd34-4cec-8085-ed22846abb5b:Character/ANIM-ALL:Character-ANIM-ALL
+16e2a17c-33c2-4ca8-8e68-4d8df5ea8389:Character/ANIM-ALL/CleanUpAnimation:Character-ANIM-ALL-CleanUpAnimation
+835f5a51-763d-4893-a14a-a7ef2a246a0f:Character/ANIM-ALL/CleanUpAnimation/CANIM - Actions:Character-ANIM-ALL-CleanUpAnimation-CANIM - Actions
+cfa20d31-e39b-48cc-b06d-666d9767683d:Character/ANIM-ALL/CleanUpAnimation/CANIM - Poses:Character-ANIM-ALL-CleanUpAnimation-CANIM - Poses
+368bf151-08c3-4ae4-9e4a-25df375e18e7:Character/ANIM-ALL/Layout:Character-ANIM-ALL-Layout
+c175c52b-c906-4fbf-9f63-ad3b417c2df7:Character/ANIM-ALL/Layout/LYT-Actions:Character-ANIM-ALL-Layout-LYT-Actions
+7bfb3d40-fc41-4177-8ca3-d6e652ec95c2:Character/ANIM-ALL/Layout/LYT-Poses:Character-ANIM-ALL-Layout-LYT-Poses
+1864a842-c58f-49fe-a9b5-a4f7e7758212:Character/ANIM-ALL/RoughAnimation:Character-ANIM-ALL-RoughAnimation
+60f85f52-d1ba-4847-b1e3-7697b1101c4f:Character/ANIM-ALL/RoughAnimation/RANIM-Actions:Character-ANIM-ALL-RoughAnimation-RANIM-Actions
+a9f813f5-e4d3-478c-9039-4db62d428f01:Character/ANIM-ALL/RoughAnimation/RANIM-Poses:Character-ANIM-ALL-RoughAnimation-RANIM-Poses
+c3dd4fce-b923-42d4-8b0d-ffcf9d3fbfe8:Character/ANIM-ALL/__DATA__:Character-ANIM-ALL-__DATA__
+dbf85325-83af-4b92-be36-b07608ca4332:Character/PRIMS-ALL:Character-PRIMS-ALL
+e68e7d27-d6d2-42dc-a50d-fc4f7bbcdc30:Character/PRIMS-ALL/ANIM-PRIMS-LYT:Character-PRIMS-ALL-ANIM-PRIMS-LYT
+88451694-d382-4548-a236-8905d5574148:Character/PRIMS-ALL/ANIM-ROUGH-PRIMS:Character-PRIMS-ALL-ANIM-ROUGH-PRIMS
+86604649-9e21-42be-8378-3f9322bcd175:Character/PRIMS-ALL/PRIMS-Layout:Character-PRIMS-ALL-PRIMS-Layout
+79dfbbda-0646-4f49-9b25-a80fd52a1c1b:Character/PRIMS-ALL/PRIMS-Retopology:Character-PRIMS-ALL-PRIMS-Retopology
+b1b17192-50b1-45ab-8efa-8f8065e438f9:Character/PRIMS-ALL/PRIMS-Sculpting:Character-PRIMS-ALL-PRIMS-Sculpting
+ab2020ec-242c-486f-936c-0f8c4318a3c9:Character/RIGS-ALL:Character-RIGS-ALL
+076655d0-25fb-46da-b616-8b42cc8b172d:Character/RIGS-ALL/RIGS-Animation:Character-RIGS-ALL-RIGS-Animation
+98b86881-df29-443c-8934-5c01f958c6b8:Character/RIGS-ALL/RIGS-Layout:Character-RIGS-ALL-RIGS-Layout
+c2faff4e-d26f-426c-a90c-64ba26001660:Character/Textures:Character-Textures
+b66c8054-bd2e-458d-8973-e4dcee417da7:Character/Textures/Baked:Character-Textures-Baked
+7df9ffcd-8f35-4a67-b7c5-90d654c9590a:Character/Textures/Baked/LOD-1K:Character-Textures-Baked-LOD-1K
+f109b1b3-78f4-4451-8851-6109ddd8f002:Character/Textures/Working:Character-Textures-Working
