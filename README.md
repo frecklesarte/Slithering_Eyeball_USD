@@ -1,1 +1,3 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fpH4qGoHHVU?si=Y1zm36G1TJNM8ccj&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The "Slithering_Eyeball_USD" repository, handles version control, updates and revisions. The repository helps manage the look development process of the character as well as serving as an educational asset for learning and integrating the USD pipeline in my workflow.
