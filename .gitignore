@@ -7,10 +7,10 @@
 # Author: David Valencia
 
 # Blender autosaves & backups
-*.blend1
-*.blend~*
+#*.blend1
+#*.blend~*
 # Blender Backup Assets-cats.txt files
-*blender_assets.cats.txt~
+#*blender_assets.cats.txt~
 # Blender Cache and simulation files
 cache/
 caches/
